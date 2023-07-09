@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d9c34f9.css",
+    "main.js": "/static/js/main.b16b3365.js",
+    "static/media/testimonial5.jpg": "/static/media/testimonial5.2688819aafdd38fd9491.jpg",
+    "static/media/testimonial2.jpg": "/static/media/testimonial2.f06fca54c21ce8c6696a.jpg",
+    "static/media/testimonial1.jpg": "/static/media/testimonial1.76d96c11f5277be6e906.jpg",
+    "static/media/testimonial4.jpg": "/static/media/testimonial4.990bf8344d8845fea242.jpg",
+    "static/media/testimonial3.jpg": "/static/media/testimonial3.28b7174901aaeed54a8f.jpg",
+    "static/media/bgWhite.png": "/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/developer.jpg": "/static/media/developer.58eb313b9dbacbdab6b4.jpg",
+    "static/media/gmail.png": "/static/media/gmail.43a48b174913b5aa2257.png",
+    "static/media/icon.jpeg": "/static/media/icon.1c48e963e6a3646ede55.jpeg",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/adele_logo.svg": "/static/media/adele_logo.8e1d7c500f7316edcbcc8c6db9db573b.svg",
+    "index.html": "/index.html",
+    "main.1d9c34f9.css.map": "/static/css/main.1d9c34f9.css.map",
+    "main.b16b3365.js.map": "/static/js/main.b16b3365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9c34f9.css",
+    "static/js/main.b16b3365.js"
+  ]
+}
